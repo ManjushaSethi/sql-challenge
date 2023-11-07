@@ -3,6 +3,9 @@
 Data Modeling 
 QuickDBD-Free Diagram.png
 
+![image](https://github.com/ManjushaSethi/sql-challenge/assets/143744238/b732fe91-d8c4-46b6-9fcd-9b32132e5d8e)
+
+
 
 
 Data Engineering 
